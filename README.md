@@ -2,7 +2,7 @@
 
 In this repository anyone can found all the CAD files for the power distribution unit / splitter box used by ARISTURTLE in the electric racing car of 2017-2018, called Irida. This project was made in collaboration with Iakovos Koutris. 
 
-![alt text](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/Assmbly-without-EM.jpg)
+![alt text]("https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/Assmbly-without-EM.jpg" zoom = "75%")
 
 ### Brief Explanation
 
