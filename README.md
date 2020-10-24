@@ -6,7 +6,7 @@ In this repository anyone can found all the CAD files for the power distribution
 
 The power distribution unit is a *3D-printed box*, containing all the necessary connections for splitting the *DC High Voltage* from the battery of the racecar in order to supply the two inverters of the car, by splitting the positive and negative pole to two supply lines. It also contains the **discharge circuit** for the DC link capacitors of the inverters the **BSPD** (Brake System Plausibility Device), the **energy meter** for the Formula Student competitions and the **HVD** (High Voltage Disconnect). 
 
-![alt text](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/Tractive_system_HV_without_backlid-Cropped.png)
+![alt text](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/tractive_system_45_view.jpg)
 
 ### Structural 
 
