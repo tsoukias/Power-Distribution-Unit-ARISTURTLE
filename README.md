@@ -11,3 +11,10 @@ The power distribution unit is a *3D-printed box*, containing all the necessary 
 ## Structural 
 
 The power distribution unit is *3D-printed*, thing that gives facility for many configurations. The construction is composed of 6 pieces, due to the 3D printer restrictions, that were glued together. The box is made of ABS, due to its low weight and its high temperature resistance.
+
+## High Voltage Connections
+
+## Airflow
+
+## Low Voltage Compartment
+
