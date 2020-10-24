@@ -10,13 +10,17 @@ The power distribution unit is a *3D-printed box*, containing all the necessary 
 
 ### Structural 
 
-The power distribution unit is *3D-printed*, thing that gives facility for many configurations. The construction is composed of 6 pieces, due to the 3D printer restrictions, that were glued together. The box is made of ABS, due to its low weight, its high temperature resistance and because its electrically non conductive. An exploded view of the splitter box can be seen below.
+The power distribution unit is *3D-printed*, thing that gives facility for many configurations. The construction is composed of 6 pieces, due to the 3D printer restrictions, that were glued together. The box is made of ABS, due to its low weight, its high temperature resistance and because its electrically non conductive. An exploded view of the splitter box as well as the HVD lid can be seen below. The top lid of the box is a 2mm transparent polycarbonate piece for fast inspection of the system.  
 
-|                         Box Exploded                         |                           HVD Lid                            |
+|                    Splitter Box Exploded                     |                           HVD Lid                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/splitter-exploded.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/HVD-LID.jpg) |
 
+For waterproofing the construction a special recess was placed around the perimeter of the box for installing an o-ring. The box has to compartments that are separated by a polycarbonate piece for ensuring electrical insulation between the two. One other important aspect of the construction is the use of brass threaded inserts for screwing all the components together. 
 
+|                    Brass Threaded Insert                     |                      Busbar Insulators                       |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/brass-threaded-inserts.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/busbar-insulators.jpg) |
 
 ### High Voltage Compartment
 
