@@ -12,7 +12,7 @@ The power distribution unit is a *3D-printed box*, containing all the necessary 
 
 The power distribution unit is *3D-printed*, thing that gives facility for many configurations. The construction is composed of 6 pieces, due to the 3D printer restrictions, that were glued together. The box is made of ABS, due to its low weight, its high temperature resistance and because its electrically non conductive. An exploded view of the splitter box can be seen below.
 
-<img src="C:\Users\Stefanos\Documents\Aristurtle\Power Distribution Unit (ARISTURTLE)\Splitter-Box_renders\splitter-exploded.jpg" alt="alt text" style="zoom:50%;" align = "left" />
+<img src="https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/splitter-exploded.jpg" alt="alt text" style="zoom:50%;" align = "left" />
 
 
 
