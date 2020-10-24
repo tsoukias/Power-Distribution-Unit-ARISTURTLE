@@ -18,7 +18,7 @@ The power distribution unit is *3D-printed*, thing that gives facility for many 
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/splitter-exploded.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/HVD-LID.jpg) |
 
-For waterproofing the construction a special recess was placed around the perimeter of the box for installing an o-ring. The box has to compartments that are separated by a polycarbonate piece for ensuring electrical insulation between the two. One other important aspect of the construction is the use of brass threaded inserts for screwing all the components together. These were fitted to ABS via a soldering iron. Lastly, for ensuring proper installation for the High Voltage path threaded insulators were used. 
+For waterproofing the construction a special recess was placed around the perimeter of the box for installing an o-ring. The box has two compartments that are separated by a polycarbonate piece for ensuring electrical insulation between the two. One other important aspect of the construction is the use of brass threaded inserts for screwing all the components together. These were fitted to ABS via a soldering iron. Lastly, for ensuring proper installation for the High Voltage path threaded insulators were used. 
 
 |                    Brass Threaded Insert                     |                     Threaded Insulators                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
