@@ -86,3 +86,6 @@ The team participated to FS ATA Italy, FS East and FS Czech Republic and each on
 
 ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS_CZECH_ASSEM.jpg)
 
+### Notice 
+
+For any further details about the design feel free to contact me to: stefanostsoukias@gmail.com
