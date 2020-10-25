@@ -76,15 +76,16 @@ The team participated to FS ATA Italy, FS East and FS Czech Republic and each on
 
 ##### FS ATA 
 
-![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS_ATA_ASSEM.jpg)
+<p align= "center"><img src="https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS_ATA_ASSEM.jpg"/>`</p>
 
 ##### FS EAST
 
-![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS-EAST_ASSEM.jpg)
+<p align= "center"><img src="https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS-EAST_ASSEM.jpg"/>`</p>
 
 ##### FS CZECH REPUBLIC
 
-![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS_CZECH_ASSEM.jpg)
+<p align= "center"><img src="https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS_CZECH_ASSEM.jpg
+    "/>`</p>
 
 ### Notice 
 
