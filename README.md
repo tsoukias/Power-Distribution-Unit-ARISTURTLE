@@ -46,9 +46,7 @@ The negative line passes through a LEM that is mounted in the side of the box an
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/cable-gland.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/ring-terminal.jpg) |
 
-The HV+ and HV- busbars are also separated by a 2mm polycarbonate piece and are supported by cylindrical busbar insulators that have screw thread from both sides.
-
-In front of the HV- busbar there is enough space to accommodate the different energy meters of the competitions as well as configurations with brass threaded inserts to mount them in the floor.
+The HV+ and HV- busbars are also separated by a 2mm polycarbonate piece and are supported by cylindrical busbar insulators that have screw thread from both sides. In front of the HV- busbar there is enough space to accommodate the different energy meters of the competitions as well as configurations with brass threaded inserts to mount them in the floor.
 
 ### Low Voltage Compartment
 
