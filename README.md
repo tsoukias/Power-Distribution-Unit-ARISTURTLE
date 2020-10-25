@@ -50,7 +50,9 @@ The HV+ and HV- busbars are also separated by a 2mm polycarbonate piece and are 
 
 ### Low Voltage Compartment
 
+<p align= "center"><img src="https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/LV-Compartment.jpg" />`</p>
 
+The Low Voltage Compartment
 
 ### Energy Meters
 
