@@ -34,7 +34,9 @@ The High Voltage compartment features the two nodes where the positive and negat
 
 The HVD is placed in the front part of the box, right in the center. It is contained inside a lid, that is mounted on the top of the box, and is mounted in the outside skin of the chassis with two M8 bolts. 
 
-Two cables from the accumulator container are inserting the splitter box from the left side through PG13.5 cable glands. 
+Two cables from the accumulator container are inserting the splitter box from the left side through PG13.5 cable glands as shown in the picture.
+
+<p align= "center"><img src="https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/in-out-lines.jpg" width="500" align="center"/>`</p>
 
 The positive line is connected to the one side of the HVD with a 35M8 ring terminal. The other side of the HVD is where the split takes place, as an S shaped HV+ busbar and a 25M8 ring terminal is connected there. The busbar is then connected to a 25M6 ring terminal and the cable exits the splitter box from the left side through a cable gland, while the other cable exits from the right side. 
 
@@ -43,6 +45,10 @@ The negative line passes through a LEM that is mounted in the side of the box an
 |                         Cable gland                          |                        Ring Terminal                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/cable-gland.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/ring-terminal.jpg) |
+
+The HV+ and HV- busbars are also separated by a 2mm polycarbonate piece and are supported by cylindrical busbar insulators that have screw thread from both sides.
+
+In front of the HV- busbar there is enough space to accommodate the different energy meters of the competitions as well as configurations with brass threaded inserts to mount them in the floor.
 
 ### Low Voltage Compartment
 
