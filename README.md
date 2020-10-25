@@ -66,3 +66,23 @@ The splitter box is located in the middle of the rear part of the chassis, above
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/mounting.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/car_top_view_splitter.png) |
 
+The position of the splitter box is shown in the picture below.
+
+![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/position-in-the-car.jpg)
+
+### Energy Meters
+
+The team participated to FS ATA Italy, FS East and FS Czech Republic and each one of them had a different energy meter for the measurement of the consumed energy. Below you can see the three different topologies. 
+
+##### FS ATA 
+
+![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS_ATA_ASSEM.jpg)
+
+##### FS EAST
+
+![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS-EAST_ASSEM.jpg)
+
+##### FS CZECH REPUBLIC
+
+![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/FS_CZECH_ASSEM.jpg)
+
