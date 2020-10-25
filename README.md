@@ -58,5 +58,11 @@ The Low Voltage Compartment consists of the discharge and BSPD PCB, a fan and a 
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/BSPD.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/Dishcharge.jpg) |
 
+### Mounting 
 
+The splitter box is located in the middle of the rear part of the chassis, above the accumulator container and just behind the driver’s seat. It is accessible from the top part of the chassis for the easy insertion/removal of the energy meters during the competitions and is supported by an aluminum mounting that is screwed on the chassis.
+
+|                           Mounting                           |                           Top View                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/mounting.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/car_top_view_splitter.png) |
 
