@@ -52,9 +52,11 @@ The HV+ and HV- busbars are also separated by a 2mm polycarbonate piece and are 
 
 <p align= "center"><img src="https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/LV-Compartment.jpg" />`</p>
 
-The Low Voltage Compartment
+The Low Voltage Compartment consists of the discharge and BSPD PCB, a fan and a connector. The discharge PCB is susceptible to heat, thus a heat sink along with a fan is used. Airflow is achieved using grilles at the position of the fan, at the polycarbonate wall between the HV and LV compartment and also at the very front of the box (at the HV+ side) of the power distribution unit. M3 threaded inserts are used to mount the PCBs.  All the signals for and from the PCBs communicate through a 21-pin connector. Above the connector there is a PG 9 cable gland for the cables of the measuring points.
 
-### Energy Meters
+|                             BSPD                             |                          Discharge                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/BSPD.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/Dishcharge.jpg) |
 
 
 
