@@ -26,7 +26,23 @@ For waterproofing the construction a special recess was placed around the perime
 
 ### High Voltage Compartment
 
-The High Voltage compartment features all the 
+The High Voltage compartment features the two nodes where the positive and negative terminal of the battery split, the HVD, the Energy Meters & also topologies for current and voltage measurements. The nodes can be seen below for each terminal:
+
+|                          HV+ busbar                          |                          HV- busbar                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/HV%2BBusbar.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/Hv-Busbar.jpg) |
+
+The HVD is placed in the front part of the box, right in the center. It is contained inside a lid, that is mounted on the top of the box, and is mounted in the outside skin of the chassis with two M8 bolts. 
+
+Two cables from the accumulator container are inserting the splitter box from the left side through PG13.5 cable glands. 
+
+The positive line is connected to the one side of the HVD with a 35M8 ring terminal. The other side of the HVD is where the split takes place, as an S shaped HV+ busbar and a 25M8 ring terminal is connected there. The busbar is then connected to a 25M6 ring terminal and the cable exits the splitter box from the left side through a cable gland, while the other cable exits from the right side. 
+
+The negative line passes through a LEM that is mounted in the side of the box and is connected in the middle of the HV- busbar with a 35M8 ring terminal. Then from the end of each side, a 25M6 ring terminal is connected and the cables are exiting the splitter box through PG 13.5 cable glands.
+
+|                         Cable gland                          |                        Ring Terminal                         |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/cable-gland.jpg) | ![](https://github.com/tsoukias/Power-Distribution-Unit-ARISTURTLE-/blob/master/Splitter-Box_renders/ring-terminal.jpg) |
 
 ### Low Voltage Compartment
 
